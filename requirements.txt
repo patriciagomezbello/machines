@@ -1,0 +1,10 @@
+pandas
+numpy
+python-dotenv
+pydantic
+scikit-learn
+openai
+tensorflow
+torch
+torchvision
+xgboost
